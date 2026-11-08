@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484210011312",
+    "project_id": "manhunt-8e1b5",
+    "storage_bucket": "manhunt-8e1b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484210011312:android:f3df15d7185f5925439f75",
+        "android_client_info": {
+          "package_name": "cz.manhunt.manhunt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuiN6_O9eVISueJjT-tyHwq48vUItlHpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
